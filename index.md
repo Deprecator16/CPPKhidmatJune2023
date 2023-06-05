@@ -1,13 +1,23 @@
 # Welcome to the Khidmat C++ Course
 
 ## Course Recordings
-  Below will be links to the course recordings (They will be uploaded within an hour after every class):
+  Below are links to the course recordings:
+  1. [https://drive.google.com/file/d/1Qh4cZ60M6yiQpPwBo7Q9APvhUzAXd9N1/view?usp=sharing](https://drive.google.com/file/d/1Qh4cZ60M6yiQpPwBo7Q9APvhUzAXd9N1/view?usp=sharing)
 
 ## Homework/Assignments
   Will be uploaded once we've covered the fundamental content.
 
 ## Further Individual Topic Readings
-  Optional extra readings on various topics will be posted here.
+  My personal favourite resource for learning C++ (Good for beginner to intermediate. Lacks some information on modern C++): https://www.learncpp.com/
+  
+### Variables
+1. [https://www.learncpp.com/cpp-tutorial/introduction-to-objects-and-variables/](https://www.learncpp.com/cpp-tutorial/introduction-to-objects-and-variables/)
+2. [https://cplusplus.com/doc/tutorial/variables/](https://cplusplus.com/doc/tutorial/variables/)
+
+### Branching/Conditional Statements
+1. [https://www.learncpp.com/cpp-tutorial/if-statements-and-blocks/](https://www.learncpp.com/cpp-tutorial/if-statements-and-blocks/)
+2. [https://ecomputernotes.com/cpp/control_structure/conditional-statements](https://ecomputernotes.com/cpp/control_structure/conditional-statements)
+  
 
 ## Topics To Be Covered
 ### Class 1 (June 3, 2023)
