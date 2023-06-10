@@ -43,14 +43,16 @@
 1. Review of Assignment 1
 2. Functions
 3. Function Parameters
-4. Personal Projects
-5. Assignment 2 released
+4. Basic data structures
+5. Personal Projects
+6. Assignment 2 released
 
 ### Class 5 (July 1, 2023)
 1. Review of Assignment 2
 2. Object Oriented Programming (OOP)
-3. C++ standard library
-4. Reading/Writing to files (File I/O)
+3. Data structures and algorithms with OOP
+4. C++ standard library
+5. Reading/Writing to files (File I/O)
 
 ### Class 6 (July 8, 2023) FINAL CLASS
 1. In-depth look at Object Oriented Programming
